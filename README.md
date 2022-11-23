@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Aroha Blue, Computer Engineer & Software Developer
+  Hi, I'm Aroha , Computer Engineer & Software Developer
   <br>
   💻 I love writing code and learn anythings about it
   <br>
