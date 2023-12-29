@@ -13,15 +13,15 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Aroha , Computer Engineer & Software Developer
+  Hi, I'm Amit , Computer Engineer & Cybersecurity Expert
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and finding bugs in code.
   <br>
-  📚 I’m currently learning Blockchain
+  📚 I’m currently learning AI applications in Cybersecurity
   <br>
   💬 Ask me anything about from <a href="https://github.com/arohablue/arohablue/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: amit42308@gmail.com">amit42308@gmail.com</a>
+  📫 How to reach me: <a href="mailto: amitkumar42308@gmail.com">amitkumar42308@gmail.com</a>
 </p>
 
 <hr>
