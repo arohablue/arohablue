@@ -22,7 +22,7 @@
   💬 Ask me anything about from <a href="https://github.com/arohablue/arohablue/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: amitkumar42308@gmail.com">amitkumar42308@gmail.com</a>
-  <a href="mailto: akumar36@umd.edu">amitkumar42308@gmail.com</a>
+  <a href="mailto: akumar36@umd.edu">akumar36@umd.edu</a>
 </p>
 
 <hr>
