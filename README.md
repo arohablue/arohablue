@@ -16,7 +16,7 @@
   <br>
   💻 I love writing code and finding bugs in code.
   <br>
-  📚 I’m currently learning AI applications in Cybersecurity
+  📚 I’m currently working in reasearch on Securing AI/ML models.
   <br>
   💬 Ask me anything about from <a href="https://github.com/arohablue/arohablue/issues" title="Issues">Here</a>
   <br>
