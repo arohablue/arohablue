@@ -74,7 +74,6 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/arohablue/ai-code-generators-data-poisoning" title="Targeted Data Poisoning Attacks on Salesforce CodeT5+"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arohablue&repo=ai-code-generators-data-poisoning&theme=react&border_color=61dafb&border_radius=10">
-<a align="right" href="https://github.com/arohablue/reseller-backend" title="seller solutions backend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arohablue&repo=reseller-backend&theme=react&border_color=61dafb&border_radius=10">
 </div>
 
 <h4 align="center">
