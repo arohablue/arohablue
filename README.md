@@ -34,15 +34,11 @@
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code>
@@ -78,7 +74,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/arohablue/ai-code-generators-data-poisoning" title="Targeted Data Poisoning Attacks on Salesforce CodeT5+"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arohablue&repo=ai-code-generators-data-poisoning&theme=react&border_color=61dafb&border_radius=10">
-<a align="right" href="https://github.com/arohablue/seller-solutions-backend" title="seller solutions backend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arohablue&repo=ai-code-generators-data-poisoning&theme=react&border_color=61dafb&border_radius=10">
+<a align="right" href="https://github.com/arohablue/seller-solutions-backend" title="seller solutions backend"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arohablue&repo=seller-solutions-backend&theme=react&border_color=61dafb&border_radius=10">
 </div>
 
 <h4 align="center">
