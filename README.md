@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Amit , Computer Engineer & Cybersecurity Expert
+  Hi, I'm Amit , Computer Engineer & Cybersecurity Expert studying at UMD.
   <br>
   💻 I love writing code and finding bugs in code.
   <br>
