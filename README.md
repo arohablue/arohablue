@@ -17,7 +17,7 @@
   </a>
   <a href="https://www.marstech.buzz/" title="Blogs" style="display: inline-flex; align-items: center;">
     <img width="22" src="images/marstech-logo.svg" alt="Marstech" style="vertical-align: middle;"> 
-    <span style="margin-left: 5px;">Security Blog</span>
+    <span style="margin-left: 5px;">Security Blogs</span>
   </a>
 </div>
 
@@ -34,9 +34,8 @@
   📫 How to reach me: <a href="mailto: amitkumar42308@gmail.com">amitkumar42308@gmail.com</a>
   <a href="mailto: akumar36@umd.edu">akumar36@umd.edu</a>
    <br>
-  Startups and Initatives :  <img title="Kali Linux" height="25" src="images/new-logo.svg" href="https://www.marstech.org.in"></a>
+  <img title="Kali Linux" height="25" src="images/new-logo.svg"> <a href="https://www.marstech.org.in"> Startups and Initatives</a> 
   <br>
-  
 </p>
 <hr>
 
