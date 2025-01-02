@@ -93,23 +93,10 @@
 
 <hr>
 
-<h2 align="center">⚡ Stats & Repositories ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arohablue&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-
-<br>
-<div width="100%" align="center">
-  <a href="https://github.com/arohablue/ai-code-generators-data-poisoning" title="Targeted Data Poisoning Attacks on Salesforce CodeT5+">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arohablue&repo=ai-code-generators-data-poisoning&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/arohablue/cybench" title="Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risk">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arohablue&repo=cybench&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-<h4 align="center">
-  <a href="https://github.com/arohablue?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
