@@ -2,14 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amit+Kumar....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amit;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/arohablue/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <a href="https://medium.com/@arohablue" title="Medium"><img width="22" src="images/medium.svg"> Medium</a></code>
+    <a href="https://www.linkedin.com/in/arohablue/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
+    <a href="https://medium.com/@arohablue" title="Medium"><img width="22" src="images/medium.svg">Medium</a></code>
    <a href="https://www.marstech.buzz/" title="Blogs"><img width="22" src="images/marstech-logo.gif">Security Blogs</a></code>
 </h5>
 <br>
