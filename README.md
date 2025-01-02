@@ -10,7 +10,7 @@
   <code>
     <a href="https://www.linkedin.com/in/arohablue/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn</a></code>
     <a href="https://medium.com/@arohablue" title="Medium"><img width="22" src="images/medium.svg">Medium</a></code>
-   <a href="https://www.marstech.buzz/" title="Blogs"><img src="images/marstech-logo.gif">Security Blogs</a></code>
+   <a href="https://www.marstech.buzz/" title="Blogs"><img width="22" src="images/marstech-logo.gif">Security</a></code>
 </h5>
 <br>
 <p align="center">
