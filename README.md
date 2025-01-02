@@ -33,6 +33,10 @@
   <br>
   📫 How to reach me: <a href="mailto: amitkumar42308@gmail.com">amitkumar42308@gmail.com</a>
   <a href="mailto: akumar36@umd.edu">akumar36@umd.edu</a>
+   <br>
+  Startups and Initatives :  <img title="Kali Linux" height="25" src="images/new-logo.svg" href="https://www.marstech.org.in"></a>
+  <br>
+  
 </p>
 <hr>
 
