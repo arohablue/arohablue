@@ -8,11 +8,22 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/arohablue/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg">LinkedIn</a>
-    <a href="https://medium.com/@arohablue" title="Medium"><img width="22" src="images/medium.svg">Medium</a>
-   <a href="https://www.marstech.buzz/" title="Blogs"><img width="22" src="images/marstech-logo.gif">Security</a>
+    <a href="https://www.linkedin.com/in/arohablue/" title="LinkedIn Profile">
+      <img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"> LinkedIn
+    </a>
+  </code>
+  <code>
+    <a href="https://medium.com/@arohablue" title="Medium">
+      <img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Medium"> Medium
+    </a>
+  </code>
+  <code>
+    <a href="https://www.marstech.buzz/" title="Blogs">
+      <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Marstech_Logo.png" alt="Marstech"> Security Blog
+    </a>
   </code>
 </h5>
+
 <br>
 <p align="center">
   Hi, I'm Amit, a Computer Engineer & Application Security Expert studying at UMD.
