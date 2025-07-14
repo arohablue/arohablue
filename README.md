@@ -31,8 +31,6 @@
   <br>
   💬 Ask me anything from <a href="https://github.com/arohablue/arohablue/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: amitkumar42308@gmail.com">amitkumar42308@gmail.com</a>
-  <a href="mailto: akumar36@umd.edu">akumar36@umd.edu</a>
    <br>
   <img title="Kali Linux" height="25" src="images/new-logo.svg"> <a href="https://www.marstech.org.in"> Startups and Initatives</a> 
   <br>
